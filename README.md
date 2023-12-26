@@ -5,7 +5,7 @@ how much the frog is green
 ![Frog](https://github.com/nxtSSanya/FrogInfo/blob/main/1.jpg?raw=true)
 
 # Select the area
-![Area](https://github.com/nxtSSanya/FrogInfo/blob/main/2.jpg?raw=true)
+![Area](https://github.com/nxtSSanya/FrogInfo/blob/main/2.png?raw=true)
 
 # Get the info
-![Info](https://github.com/nxtSSanya/FrogInfo/blob/main/3.jpg?raw=true)
+![Info](https://github.com/nxtSSanya/FrogInfo/blob/main/3.png?raw=true)
